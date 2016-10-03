@@ -1,0 +1,14 @@
+{
+  "name": "angular2-colcade",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": { },
+  "private": false,
+  "dependencies": {
+    "@angular/core": "2.0.0-rc.6",
+    "colcade": "0.2.0"
+  },
+  "devDependencies": {
+    "typescript": "2.0.0"
+  }
+}
