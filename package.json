@@ -1,14 +1,30 @@
 {
   "name": "angular2-colcade",
+  "description": "Colcade module for Angular2",
   "version": "0.1.0",
-  "license": "MIT",
-  "scripts": { },
-  "private": false,
+  "scripts": {},
   "dependencies": {
     "@angular/core": "2.0.0-rc.6",
     "colcade": "0.2.0"
   },
   "devDependencies": {
     "typescript": "2.0.0"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardobazico/angular2-colcade.git"
+  },
+  "keywords": [
+    "colcade",
+    "masonry",
+    "angular2"
+  ],
+  "private": false,
+  "author": "Leonardo Bazico",
+  "bugs": {
+    "url": "https://github.com/leonardobazico/angular2-colcade/issues"
+  },
+  "homepage": "https://github.com/leonardobazico/angular2-colcade#readme",
+  "license": "MIT"
 }
